@@ -176,7 +176,7 @@ I'll be using this repo as a way for myself to access them as, if and when I nee
 ![@yangon](certificate.jpg)
 
 <p align="center">
-    <h1>The Sule Pagoda @ Yangon Downtown, Yangon, Myanmar</h1>
+    <h2>The Sule Pagoda @ Yangon Downtown, Yangon, Myanmar</h2>
 </p>
 
 ---
