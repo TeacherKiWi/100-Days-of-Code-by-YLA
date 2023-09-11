@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d9cd4a20-e54a-41aa-908c-1b227a5deb92" name="Changes" comment="from github folder">
-      <change beforePath="$PROJECT_DIR$/05 Day 5/day5_4_for_loop_and_range_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/05 Day 5/day5_4_for_loop_and_range_function.py" afterDir="false" />
+    <list default="true" id="d9cd4a20-e54a-41aa-908c-1b227a5deb92" name="Changes" comment="edited day5_4">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,7 +190,28 @@
       <option name="project" value="LOCAL" />
       <updated>1694432085772</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ignore list">
+      <created>1694438144983</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694438144983</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ignore list">
+      <created>1694438232311</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1694438232311</updated>
+    </task>
+    <task id="LOCAL-00004" summary="edited day5_4">
+      <created>1694438377480</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1694438377480</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -207,6 +228,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ignore list" />
-    <option name="LAST_COMMIT_MESSAGE" value="ignore list" />
+    <MESSAGE value="edited day5_4" />
+    <option name="LAST_COMMIT_MESSAGE" value="edited day5_4" />
   </component>
 </project>
