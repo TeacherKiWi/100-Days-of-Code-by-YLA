@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d9cd4a20-e54a-41aa-908c-1b227a5deb92" name="Changes" comment="ignore list">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="d9cd4a20-e54a-41aa-908c-1b227a5deb92" name="Changes" comment="from github folder">
+      <change beforePath="$PROJECT_DIR$/05 Day 5/day5_4_for_loop_and_range_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/05 Day 5/day5_4_for_loop_and_range_function.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,14 +44,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\yelin\OneDrive\Desktop\100 Days of Python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.day4_1_random_module">
+  <component name="RunManager" selected="Python.day5_4_for_loop_and_range_function">
     <configuration name="day4_1_random_module" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -167,10 +166,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.day5_4_for_loop_and_range_function" />
         <item itemvalue="Python.day4_1_random_module" />
         <item itemvalue="Python.day4_7_project_rock_paper_scissors" />
         <item itemvalue="Python.day5_3_high_score_exercise" />
-        <item itemvalue="Python.day5_4_for_loop_and_range_function" />
         <item itemvalue="Python.day5_2_average_height_exercise" />
       </list>
     </recent_temporary>
